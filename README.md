@@ -82,7 +82,7 @@ A _demoscene_ project presented at the Revision 2015 demoparty, in Saarbrücken,
 
 Interstase is a very personal project that allowed me to experiment with the implementation of a C++ 3D engine from the ground up. The project is based on scenes from Lightwave 3D, displayed by a scenarization system of my own. Part of the 3D rendering is generated in real-time raytracing using GPU shaders.
 
-[![](img/interstase.jpg)](https://youtu.be/HYCLZ5qQ58I)  
+[![](img/interstase.png)](https://youtu.be/HYCLZ5qQ58I)  
 [Github repository](https://github.com/ErkMkd/Interstase)
 ___
 ## Gull rigging
