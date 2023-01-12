@@ -84,3 +84,11 @@ Interstase is a very personal project that allowed me to experiment with the imp
 
 [![](img/interstase.jpg)](https://youtu.be/HYCLZ5qQ58I)  
 [Github repository](https://github.com/ErkMkd/Interstase)
+___
+## Gull rigging
+
+3D animation of a gull for a corporate communication video.  
+Framework: LightWave  
+Role: modelling, rigging, animation  
+
+[![](img/gull.png)](https://youtu.be/W6ZJPE0z014)  
