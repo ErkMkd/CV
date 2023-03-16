@@ -44,7 +44,7 @@ As a part of a larger project, this terrain generator was implemented in Python.
 
 The low-polygon look was a deliberate choice, in accordance with the UX vision provided by the interaction designer.
 
-[![](img/terrain_generator.png)](https://github.com/ErkMkd/RaycastCar)  
+[![](img/terrain_generator.png)](https://github.com/ErkMkd/Terrain_Generator)  
 ___
 ## Box Folding Tool
 
