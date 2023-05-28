@@ -58,6 +58,13 @@ A Python implementation of the classical _raycast car_ model, based on the HARFA
 
 [![](img/raycast_car.png)](https://github.com/ErkMkd/RaycastCar)  
 ___
+## Raycast car and raymarched terrain
+A Proof Of Concept in which you can drive a raycast-car through ray-marching terrain. The terrain is a combination of heightmaps. No mesh is used, only a [raymarch](https://en.wikipedia.org/wiki/Ray_marching) shader.  
+The car collisions are computed using the altitudes at wheels positions. The CPU computes the altitudes using the same function than GPU.  
+
+[![](img/car_terrain.png)](https://github.com/ErkMkd/RaycastCar_RaymarchTerrain)
+
+
 ## Volumetric Clouds - Fast billboards  
 
 Implemented in Python and GLSL, using 3D textures, to render a procedural-generated layer of clouds in an open world.
