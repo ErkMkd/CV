@@ -81,7 +81,7 @@ A Python implementation of the classical _raycast car_ model, based on the HARFA
 A Proof Of Concept in which you can drive a raycast-car through ray-marching terrain. The terrain is a combination of heightmaps. No mesh is used, only a [raymarch](https://en.wikipedia.org/wiki/Ray_marching) shader.  
 The car collisions are computed using the altitudes at wheels positions. The CPU computes the altitudes using the same function than GPU.
 
-[![](img/car_terrain.png)](https://youtu.be/BShzWEcVhmE)
+[![](img/car_terrain.png)](https://youtu.be/BShzWEcVhmE)  
 [Github repository](https://github.com/ErkMkd/RaycastCar_RaymarchTerrain)
 
 ---
